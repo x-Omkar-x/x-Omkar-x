@@ -12,7 +12,7 @@
 ## 🗨️ Contact me on:
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://telegram.me/notG0KU)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=omkarnarkar150@gmail.com&tf=cm)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarnarkar150@gmail.com)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x-omkar-x&show_icons=true&locale=en" alt="x-omkar-x" /></p>
  <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
