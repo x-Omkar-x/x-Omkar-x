@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Omkar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"></h1>
 <h3 align="center">A college student from India</h3>
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 - 🌱 I’m currently learning *Python,php*
 
 - ⚡ Fun fact *I like drawing and watching anime.*
